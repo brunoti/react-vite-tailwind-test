@@ -1,0 +1,4 @@
+.js-editor-container .cropper-view-box,
+.js-editor-container .cropper-face {
+	border-radius: 50%;
+}
